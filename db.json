@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "name": "Ballon de Football",
+      "price": 25,
+      "brand": "Nike",
+      "category": "Football",
+      "stock": 50,
+      "image": "https://static3.depositphotos.com/1000597/111/i/950/depositphotos_1115652-stock-photo-football-soccer-ball.jpg",
+      "description": "Un ballon de football de haute qualité pour des performances optimales sur le terrain."
+    },
+    {
+      "id": 2,
+      "name": "Raquette de Tennis",
+      "price": 100,
+      "brand": "Wilson",
+      "category": "Tennis",
+      "stock": 30,
+      "image": "https://th.bing.com/th/id/R.b338736646ecc320f0e9d5ecf8ff0f2e?rik=Ebm16yPP4PRL9A&pid=ImgRaw&r=0",
+      "description": "Raquette de tennis légère et durable pour des coups puissants et précis."
+    },
+    {
+      "id": 3,
+      "name": "Chaussures de Running",
+      "price": 75,
+      "brand": "Adidas",
+      "category": "Running",
+      "stock": 40,
+      "image": "https://th.bing.com/th/id/OIP.vgAEw4IqCcEDnoOCglL5fgHaE8?rs=1&pid=ImgDetMain",
+      "description": "Chaussures de running confortables et respirantes pour des courses longues et agréables."
+    },
+    {
+      "id": 4,
+      "name": "Gants de Boxe",
+      "price": 45,
+      "brand": "Everlast",
+      "category": "Boxe",
+      "stock": 20,
+      "image": "https://th.bing.com/th/id/OIP.qZxnIIj9eaLdEoeNnDAKrgHaHa?rs=1&pid=ImgDetMain",
+      "description": "Gants de boxe robustes et rembourrés pour une protection maximale lors des entraînements."
+    },
+    {
+      "id": 5,
+      "name": "Vélo de Montagne",
+      "price": 300,
+      "brand": "Trek",
+      "category": "Cyclisme",
+      "stock": 10,
+      "image": "https://example.com/images/velo_montagne.jpg",
+      "description": "Vélo de montagne tout-terrain pour des aventures en pleine nature."
+    },
+    {
+      "id": 6,
+      "name": "Maillot de Basketball",
+      "price": 60,
+      "brand": "Jordan",
+      "category": "Basketball",
+      "stock": 25,
+      "image": "https://example.com/images/maillot_basketball.jpg",
+      "description": "Maillot de basketball respirant et léger pour des performances optimales sur le terrain."
+    },
+    {
+      "id": 7,
+      "name": "Casque de Ski",
+      "price": 80,
+      "brand": "Salomon",
+      "category": "Ski",
+      "stock": 15,
+      "image": "https://example.com/images/casque_ski.jpg",
+      "description": "Casque de ski confortable et sécurisé pour une protection maximale sur les pistes."
+    },
+    {
+      "id": 8,
+      "name": "Tapis de Yoga",
+      "price": 20,
+      "brand": "Manduka",
+      "category": "Yoga",
+      "stock": 60,
+      "image": "https://example.com/images/tapis_yoga.jpg",
+      "description": "Tapis de yoga antidérapant et durable pour des séances de yoga confortables."
+    },
+    {
+      "id": 9,
+      "name": "Haltères",
+      "price": 50,
+      "brand": "Bowflex",
+      "category": "Musculation",
+      "stock": 35,
+      "image": "https://example.com/images/halteres.jpg",
+      "description": "Haltères réglables pour des entraînements de musculation variés et efficaces."
+    },
+    {
+      "id": 10,
+      "name": "Sac de Golf",
+      "price": 150,
+      "brand": "Callaway",
+      "category": "Golf",
+      "stock": 12,
+      "image": "https://example.com/images/sac_golf.jpg",
+      "description": "Sac de golf spacieux et léger pour transporter facilement tout votre équipement."
+    }
+  ]
+}
